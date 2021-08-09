@@ -15,12 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### writing
+### &#128393; writing
 
-Go read about computation
+Go read about computation and physics on my ![blog](https://comp-phys.netlify.app/)
 
 ### technologies
-C++
+C/C++
+Python
+Javascript
+MySQL
+
+Flask
+Gatsby
+ReactJS
+
 
 ### studying
 Calculus II
@@ -29,5 +37,5 @@ Physics I
 ### reading
 Thinking, Fast and Slow – Daniel Khaneman
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmharrington03&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmharrington03&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
