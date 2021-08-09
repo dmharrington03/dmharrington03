@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ✏️ writing
+### writing ✏️
 
 Go read about computation and physics on my [blog](https://comp-phys.netlify.app/)
 
-### technologies
+### technologies 💻
 C/C++
 Python
 Javascript
@@ -30,12 +30,14 @@ Gatsby
 ReactJS
 
 
-### studying
+### studying 📚
 Calculus II
 Physics I
 
-### 📖 reading
+### reading 📖
 Thinking, Fast and Slow – Daniel Khaneman
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmharrington03&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmharrington03&show_icons=true&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmharrington03&repo=physics&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
