@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### &#128393; writing
+### ✏️ writing
 
-Go read about computation and physics on my ![blog](https://comp-phys.netlify.app/)
+Go read about computation and physics on my [blog](https://comp-phys.netlify.app/)
 
 ### technologies
 C/C++
@@ -34,7 +34,7 @@ ReactJS
 Calculus II
 Physics I
 
-### reading
+### 📖 reading
 Thinking, Fast and Slow – Daniel Khaneman
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmharrington03&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
