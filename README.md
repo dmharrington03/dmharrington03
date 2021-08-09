@@ -1,4 +1,4 @@
-### Hi there 👋
+## hi there 👋
 
 <!--
 **dmharrington03/dmharrington03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### writing
+
+Go read about computation
+
+### technologies
+C++
+
+### studying
+Calculus II
+Physics I
+
+### reading
+Thinking, Fast and Slow – Daniel Khaneman
