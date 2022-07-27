@@ -31,11 +31,12 @@ ReactJS
 
 
 ### studying 📚
-Calculus II
-Physics I
+Linear Algebra
+Modern Physics
 
 ### reading 📖
-Thinking, Fast and Slow – Daniel Khaneman
+The Dark Forest - Cixin Liu
+Alex's Adventure in Numberland - Alex Bellos
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmharrington03&show_icons=true&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmharrington03&repo=physics&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
