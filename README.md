@@ -20,22 +20,23 @@ Here are some ideas to get you started:
 Go read about computation and physics on my [blog](https://comp-phys.netlify.app/)
 
 ### technologies 💻
-C/C++
-Python
-Javascript
-MySQL
+C/C++  
+Python  
+Javascript  
+SQL  
 
-Flask
-Gatsby
+Flask  
+Gatsby  
 ReactJS
 
 
 ### studying 📚
-Linear Algebra
-Modern Physics
+Linear Algebra  
+Modern Physics  
+Chinese 3
+
 
 ### reading 📖
-The Dark Forest - Cixin Liu
 Alex's Adventure in Numberland - Alex Bellos
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmharrington03&show_icons=true&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
