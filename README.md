@@ -1,4 +1,4 @@
-## hi there 👋
+## Hi!
 
 <!--
 **dmharrington03/dmharrington03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,29 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### writing ✏️
+I'm Daniel, an undergraduate physics and math student at Tufts University. Visit my portfolio site [danielharrington.netlify.app](https://danielharrington.netlify.app/) and connect with me:
 
-Go read about computation and physics on my [blog](https://comp-phys.netlify.app/)
+LinkedIn: [linkedin.com/in/dmharrington03/](https://www.linkedin.com/in/dmharrington03/)
 
-### technologies 💻
-C/C++  
-Python  
-Javascript  
+Email: dmharrington03@gmail.com
+
+Here's a bit about me and my work:
+
+
+
+### Technologies
+C/C++ (SFML, Arduino)  
+Python (numpy, matplotlib, Pandas, Flask)  
+Javascript (React, GatsbyJS, p5.js)  
 SQL  
 
-Flask  
-Gatsby  
-ReactJS
 
-
-### studying 📚
+### Studying
 Linear Algebra  
 Modern Physics  
-Chinese 3
+Chinese 3  
+Intro to Philosophy
 
 
-### reading 📖
-Alex's Adventure in Numberland - Alex Bellos
+### Reading
+Quantum Computing: A Gentle Introduction – Eleanor Rieffel and Wolfgang Polak
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmharrington03&show_icons=true&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmharrington03&repo=physics&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
