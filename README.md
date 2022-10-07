@@ -23,13 +23,15 @@ Email: dmharrington03@gmail.com
 
 Here's a bit about me and my work:
 
+I'm interested in science and in studying the broad areas of condensed matter physics and computational mathematics. I am looking to learn more about quantum computing theory and development, computper graphics, and astronomy, as well as expand my skillset and familiarity within the discipline of physics.
+
 
 
 ### Technologies
 C/C++ (SFML, Arduino)  
 Python (numpy, matplotlib, Pandas, Flask)  
 Javascript (React, GatsbyJS, p5.js)  
-SQL  
+MySQL  
 
 
 ### Studying
