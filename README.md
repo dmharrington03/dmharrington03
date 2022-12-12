@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Daniel, an undergraduate physics and math student at Tufts University. Visit my portfolio site [danielharrington.netlify.app](https://danielharrington.netlify.app/) and connect with me:
+I'm Daniel, an undergraduate physics and math student at Tufts University. Visit my portfolio site [danielharrington.me](https://danielharrington.me/) and connect with me:
 
 LinkedIn: [linkedin.com/in/dmharrington03/](https://www.linkedin.com/in/dmharrington03/)
 
@@ -35,10 +35,11 @@ MySQL
 
 
 ### Studying
-Linear Algebra  
-Modern Physics  
-Chinese 3  
-Intro to Philosophy
+Differential Equations  
+Bridge to Higher Mathematics  
+Electronics  
+Data Structures  
+Chinese 4 
 
 
 ### Reading
