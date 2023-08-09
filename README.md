@@ -19,11 +19,13 @@ I'm Daniel, an undergraduate physics and math student at Tufts University. Visit
 
 LinkedIn: [linkedin.com/in/dmharrington03/](https://www.linkedin.com/in/dmharrington03/)
 
-Email: dmharrington03@gmail.com
+Email:  
+dmharrington03@gmail.com  
+dharri24@tufts.edu
 
 Here's a bit about me and my work:
 
-I'm interested in pursuing the broad research areas of condensed matter physics and applied optics. I am looking to learn more about quantum computing, photonics, and astronomy, as well as expand my general skillset and familiarity with the discipline of physics. Outside of science, I love jazz and weightlifting. I'm also passionate about education, creating and expanding opportunities for youth and those with limited access to quality education. Currently, I'm looking for opportunities to develop my research skills and experience in physics.
+I'm interested in pursuing condensed matter and atomic/optical physics. I am looking to learn more about quantum computing, photonics, and ultracold atoms, as well as expand my general skillset and familiarity with physics. Outside of science, I love jazz and weightlifting. I'm also passionate about education, creating and expanding opportunities for youth and those with limited access to quality education. 
 
 
 ### Technologies
@@ -34,11 +36,9 @@ SQL
 
 
 ### Studying
-Differential Equations  
-Bridge to Higher Mathematics  
-Electronics  
-Data Structures  
-Chinese 4 
+Quantum Mechanics I  
+Abstract Algebra I  
+Mathematical Aspects of Data Analysis  
 
 
 ### Reading
