@@ -37,7 +37,7 @@ SQL
 
 ### Studying
 Quantum Mechanics I  
-Abstract Algebra I  
+Real Analysis I  
 Mathematical Aspects of Data Analysis  
 
 
