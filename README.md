@@ -25,25 +25,25 @@ dharri24@tufts.edu
 
 Here's a bit about me and my work:
 
-I'm interested in pursuing condensed matter and atomic/optical physics. I am looking to learn more about quantum computing, photonics, and ultracold atoms, as well as expand my general skillset and familiarity with physics. Outside of science, I love jazz and weightlifting. I'm also passionate about education, creating and expanding opportunities for youth and those with limited access to quality education. 
+I'm interested in quantum information science and physical systems for quantum simulation. I am looking to learn more about photonics, ultracold atoms, and machine learning, as well as expand my general skillset and familiarity with physics. Outside of science, I love jazz and weightlifting. I'm also passionate about education, creating and expanding opportunities for youth and those with limited access to quality education. 
 
 
 ### Technologies
-C/C++ (SFML, Arduino)  
 Python (numpy, matplotlib, Pandas, Flask, meep)  
+C/C++ (SFML, Arduino)  
 Javascript (React, GatsbyJS, p5.js)  
 SQL  
 
 
 ### Studying
-Quantum Mechanics I  
-Real Analysis I  
-Mathematical Aspects of Data Analysis  
+Quantum Mechanics II   
+Thermal Physics
+Real Analysis II   
 
 
 ### Reading
-Quantum Computing: A Gentle Introduction – Eleanor Rieffel and Wolfgang Polak
-
+Atomic Physics - Christopher Foot   
+Deep Learning - Christopher Bishop  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmharrington03&repo=physics&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmharrington03&repo=tufts-srt&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
