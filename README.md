@@ -34,15 +34,15 @@ C/C++ (SFML, Arduino)
 Javascript (React, GatsbyJS, p5.js)  
 SQL  
 
-
+<!--
 ### Studying
 Quantum Mechanics II   
 Thermal Physics
 Real Analysis II   
-
+-->
 
 ### Reading
-Atomic Physics - Christopher Foot   
+Quantum Theory, Groups, and Representations - Peter Woit
 Deep Learning - Christopher Bishop  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmharrington03&repo=physics&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
