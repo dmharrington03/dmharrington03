@@ -17,25 +17,7 @@ Here are some ideas to get you started:
 
 I'm Daniel, an undergraduate physics and math student at Tufts University. Here's a bit about me and my work:
 
-I'm interested in quantum information science and physical systems for quantum simulation. I am looking to learn more about photonics, ultracold atoms, and machine learning, as well as expand my general skillset and familiarity with physics. Outside of science, I love jazz and weightlifting. I'm also passionate about education, creating and expanding opportunities for youth and those with limited access to quality education. 
-
-
-### Technologies
-Python (numpy, matplotlib, Pandas, Flask, meep)  
-C/C++ (SFML, Arduino)  
-Javascript (React, GatsbyJS, p5.js)  
-SQL  
-
-<!--
-### Studying
-Quantum Mechanics II   
-Thermal Physics
-Real Analysis II   
--->
-
-### Reading
-Quantum Theory, Groups, and Representations - Peter Woit  
-Deep Learning - Christopher Bishop  
+I'm interested in quantum information science and physical systems for quantum simulation. I am looking to learn more about photonics, ultracold atoms, and machine learning, as well as expand my general skillset and familiarity with physics. 
 
 LinkedIn: [linkedin.com/in/dmharrington03/](https://www.linkedin.com/in/dmharrington03/)
 
