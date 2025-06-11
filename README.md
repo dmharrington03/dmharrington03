@@ -22,7 +22,7 @@ I'm interested in quantum information science and physical systems for quantum s
 LinkedIn: [linkedin.com/in/dmharrington03/](https://www.linkedin.com/in/dmharrington03/)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmharrington03&repo=physics&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmharrington03&repo=tufts-srt&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
